@@ -13,7 +13,7 @@
  --here, filename could be anything in ".jpeg" or ".png" file extension of the uploaded image of circuit.
 
 
-To visualize the preprocessing, we've created a different file,
+### To visualize the preprocessing, we've created a different file,
 
 1--Open 'terminal' and run 'prepro1.py' file
 
