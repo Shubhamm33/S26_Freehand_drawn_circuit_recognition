@@ -4,7 +4,7 @@ imutils==0.5.2
 kiwisolver==1.0.1
 matplotlib==2.2.3
 numpy==1.14.0
-opencv-contrib-python==3.4.0.12
+opencv-contrib-python==4.2.0.32
 Pillow==6.2.2
 pkg-resources==0.0.0
 pylsd==0.0.2
