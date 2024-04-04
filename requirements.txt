@@ -3,7 +3,7 @@ cycler==0.10.0
 imutils==0.5.2
 kiwisolver==1.0.1
 matplotlib==2.2.3
-numpy==1.14.0
+numpy==1.22.0
 opencv-contrib-python==3.4.0.12
 Pillow==10.3.0
 pkg-resources==0.0.0
